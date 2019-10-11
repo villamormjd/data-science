@@ -21,19 +21,26 @@ OOP Method
 plt.figure()
 """
 
-fig = plt.figure()
-axes = fig.add_axes([0.1, 0.1, 0.8, 0.8])
-axes.plot(x, y)
-axes.set_ylabel('My Y Label')
-axes.set_xlabel('My X Label')
-axes.set_title('Axes Title')
+# fig = plt.figure()
+# axes = fig.add_axes([0.1, 0.1, 0.8, 0.8])
+# axes.plot(x, y)
+# axes.set_ylabel('My Y Label')
+# axes.set_xlabel('My X Label')
+# axes.set_title('Axes Title')
 
 """
 Canvas within canvas 
+
+plt.tight_layout() for overlapping axes
 """
-fig = plt.figure()
-axes1 = fig.add_axes([0.1, 0.1, 0.8, 0.8])
-axes2 = fig.add_axes([0.4, 0.2, 0.4, 0.3])
-axes2.plot(x, y)
-axes1.plot(y, x)
+# fig = plt.figure()
+# axes1 = fig.add_axes([0.1, 0.1, 0.8, 0.8])
+# axes2 = fig.add_axes([0.4, 0.2, 0.4, 0.3])
+# axes2.plot(x, y)
+# axes1.plot(y, x)
+
+fig, axes = plt.subplots(nrows=1, ncols=2)
+axes[0].plot(x, y)
+axes[1].plot(x, y)
+
 plt.show()
