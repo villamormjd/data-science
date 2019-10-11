@@ -2,7 +2,7 @@
 
 <p>This is my lessons about data science and machine learning from Udemy. </p>
 
-<p> You can check out this course by Jose Portilla in this <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"> link </a>. </p>
+<p> You can check out this course by Jose Portilla in this <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/" targer="_blank"> link </a>. </p>
 
 <h3> Topics in this course </h3>
 <ul> 
