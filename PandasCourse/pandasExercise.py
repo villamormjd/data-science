@@ -73,3 +73,4 @@ corr() method returns correlation between columns
 
 sal['title_len'] = sal['JobTitle'].apply(len)
 corr = sal[['TotalPayBenefits', 'title_len']].corr()
+
