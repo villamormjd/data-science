@@ -10,3 +10,5 @@ venv.bak/
 .idea
 
 __pycache__
+
+/FolderFile
