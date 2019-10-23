@@ -1,22 +1,23 @@
-<h1> Data Science and Machine Learning lessons. </h1>
+# Data Science and Machine Learning lessons.
 
-<p>This is my lessons about data science and machine learning from Udemy. </p>
+This is my lessons about data science and machine learning from Udemy.
 
-<p> You can check out this course by Jose Portilla in this <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/" target="_blank"> link </a>. </p>
+You can check out this course by Jose Portilla in this https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp.
 
-<h3> Topics in this course </h3>
-<ul> 
-  <li> Numpy </li>
-  <li> Pandas </li>
-  <li> Matplotlib </li>
-  <li> Seaborn </li>
-  <li> SciKit-Learn </li>
-  <li> Spark </li>
-  <li> NPL </li>
-</ul>
+### Topics in this course 
 
-<hr>
+  Numpy
+  Pandas
+  Matplotlib
+  Seaborn
+  SciKit-Learn
+  Spark
+  NPL
 
-<h2> To install packages </h2>
-<p> In <strong> Windows, </strong></p>
-<p> pip install -r requirements.txt </p>
+
+
+## To install packages
+In ****Windows
+```
+pip install -r requirements.txt
+```
