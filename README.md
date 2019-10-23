@@ -9,13 +9,13 @@ https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootca
 
 ### Topics in this course 
 
-  Numpy
-  Pandas
-  Matplotlib
-  Seaborn
-  SciKit-Learn
-  Spark
-  NPL
+  * Numpy
+  * Pandas
+  * Matplotlib
+  * Seaborn
+  * SciKit-Learn
+  * Spark
+  * NPL
 
 ## To install packages
 In Windows
